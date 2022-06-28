@@ -3,7 +3,7 @@
 #### I'm Matt and I am a full stack engineer currently working at [Ippon Technologies](https://us.ippon.tech/)
 
 
-[![Website](./images//earth.png) Website](https://mattfreshwaters.github.io/)
+[![Website](./images//earth.png) Website](https://mattfreshwaters.github.io/mattfreshwaters/)
 
 [![Linkedin](./images//linkedin.png) LinkedIn](https://www.linkedin.com/in/matthew-freshwaters/)
 
