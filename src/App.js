@@ -8,7 +8,7 @@ import NavBar from './components/nav';
 function App() {
   return (
         <div className = "app">
-          <h2>Welcome to React Router Tutorial</h2>
+          <h2>Site in progress</h2>
           <NavBar/>
           <hr />
           <Routes>
