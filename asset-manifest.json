@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mattfreshwaters/static/css/main.abd64e84.css",
-    "main.js": "/mattfreshwaters/static/js/main.9d719bc7.js",
+    "main.js": "/mattfreshwaters/static/js/main.051c2f49.js",
     "index.html": "/mattfreshwaters/index.html",
     "main.abd64e84.css.map": "/mattfreshwaters/static/css/main.abd64e84.css.map",
-    "main.9d719bc7.js.map": "/mattfreshwaters/static/js/main.9d719bc7.js.map"
+    "main.051c2f49.js.map": "/mattfreshwaters/static/js/main.051c2f49.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.9d719bc7.js"
+    "static/js/main.051c2f49.js"
   ]
 }
