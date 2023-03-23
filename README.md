@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I'm Matt and I am a full stack engineer currently working at [Ippon Technologies](https://us.ippon.tech/)
+#### I'm Matt and I am a full stack engineer currently looking for my next role
 
 
 [![Website](./images//earth.png) Website](https://mattfreshwaters.github.io/mattfreshwaters/)
