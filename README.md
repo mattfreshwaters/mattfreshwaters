@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I'm Matt and I am a full stack engineer currently looking for my next role
+#### I'm Matt and I am a full stack engineer working for Deloitte
 
 
 [![Website](./images//earth.png) Website](https://mattfreshwaters.github.io/mattfreshwaters/)
